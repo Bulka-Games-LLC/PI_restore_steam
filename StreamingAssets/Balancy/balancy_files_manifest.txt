@@ -39,6 +39,7 @@
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_GenDifficultyConfig.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_GenPopularityConfig.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_GeneratorConfig.json
+./0ec15e10-88c4-11f0-bf25-1fec53a055ba_GetMainReward.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_GlobalSettings.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_InventorySlotsConfig.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_ItemConfig.json
