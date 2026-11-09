@@ -33,6 +33,7 @@
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_EventClickerStage.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_EventClickerSubstage.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_EventOffersGroupStarter.json
+./0ec15e10-88c4-11f0-bf25-1fec53a055ba_EventPointsTask.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_EventPuzzle.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_EventWheel.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_Event_NativeGroup.json
